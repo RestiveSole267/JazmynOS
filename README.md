@@ -1,2 +1,3 @@
 # jazmyn
-coming soon
+
+Jazmyn is a Unix shell command operation system... coming soon...
