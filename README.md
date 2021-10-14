@@ -1,5 +1,5 @@
 # Jazmyn (JazmynOS)
-A cloud based kernel system that is currently in development...
+*A cloud based kernel system that is currently in development...*
 
 ## Why JazmynOS?
 This is my first ever built operating system as a software developer, since it's my first os project I want to name after someone who mean the world to me other than my mother and my sister. After sleeping on the name for weeks, I eventually chose the name Jazmyn. For those who don't know Jazmyn is the french variation of Jasmine, and most know that I'm currently learn to speak french along with learning spanish in high school. 
