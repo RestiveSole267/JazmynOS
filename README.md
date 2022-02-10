@@ -1,7 +1,7 @@
 # Jazmyn (JazmynOS)
 *A cloud based kernel system that is currently in development...*
 
-![JazmynOS](https://github.com/RestiveSole267/JazmynOS/workflows/JazmynOS/badge.svg)
+[![JazmynOS]](https://github.com/RestiveSole267/JazmynOS/workflows/JazmynOS/badge.svg)
 [![Cloudbit Studios](https://img.shields.io/discord/830522505605283862.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/Rc8TFnnzcR)
 
 ## About JazmynOS?
