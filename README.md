@@ -1,6 +1,8 @@
 # Jazmyn (JazmynOS)
 *A cloud based kernel system that is currently in development...*
 
+![JazymnOS](https://github.com/RestiveSole267/JazmynOS/workflows/JazmynOS/badge.svg)
+
 ## Why JazmynOS?
 Because this is my first operating system as a software developer, I'd like to name it after someone other than my mother and sister who means a lot to me. I eventually decided on the name Jazmyn after weeks of thoughtful consideration. For those who don't know, Jazmyn is the French version of Jasmine, and  I'm currently learning French as well as Spanish in high school. 
 
